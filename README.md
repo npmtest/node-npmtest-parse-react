@@ -1,6 +1,6 @@
 # npmtest-parse-react
 
-#### test coverage for  [parse-react (v0.5.2)](https://github.com/ParsePlatform/ParseReact)  [![npm package](https://img.shields.io/npm/v/npmtest-parse-react.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-parse-react) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-parse-react.svg)](https://travis-ci.org/npmtest/node-npmtest-parse-react)
+#### basic test coverage for  [parse-react (v0.5.2)](https://github.com/ParsePlatform/ParseReact)  [![npm package](https://img.shields.io/npm/v/npmtest-parse-react.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-parse-react) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-parse-react.svg)](https://travis-ci.org/npmtest/node-npmtest-parse-react)
 
 #### Use Parse data in React applications
 
